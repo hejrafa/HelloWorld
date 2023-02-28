@@ -1,5 +1,5 @@
 ## Interface: 100005
-## version: 1.0.0
+## Version: 1.0.0
 ## Title: Hello World
 ## Notes: My first Addon
 ## Author: Rafael Polutta
